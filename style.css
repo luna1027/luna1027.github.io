@@ -1,0 +1,39 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+}
+
+
+h2 {
+    text-align: center;
+}
+
+.main {
+    background-color: lemonchiffon;
+    width: 1500px;
+    height: 800px;
+    margin: 0 auto;
+}
+
+.main-header {
+    color: saddlebrown;
+    font-size: 1.25rem;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 5px;
+
+}
+
+table,
+tr,
+td {
+    border: 0px solid goldenrod;
+    text-align: center;
+    margin: auto;
+}
+
+th {
+    width: 150px;
+    height: 20px;
+}
